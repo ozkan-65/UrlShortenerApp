@@ -1,0 +1,16 @@
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/controllers/UserController.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/controllers/UrlController.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/services/ShortUrlServices.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/request/ShortUrlRequest.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/dto/converter/ShortUrlDtoConvertor.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/services/impl/UserServiceImpl.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/UrlShortenerAppApplication.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/repository/UserRepository.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/dto/ShortUrlDto.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/util/RandomStringGenerator.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/services/UserServices.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/repository/ShortUrlRepository.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/model/ShortUrl.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/request/converter/ShortUrlRequestConverter.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/model/User.java
+/Users/ozkanpektas/Downloads/UrlShortenerApp/src/main/java/com/example/urlshortenerapp/services/impl/ShortUrlServiceImpl.java
